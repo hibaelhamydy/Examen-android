@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Loginscreen</string>
+    <string name="_212_6352_2254">+212 6352-2254</string>
+
+    <string-array name="sexes">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
